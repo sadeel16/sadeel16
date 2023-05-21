@@ -1,5 +1,15 @@
-<h1> Hi there, I'm <a href="../.../../../../">Sadeel Malassa </a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<h1> Hi there, I'm <a href="../.../../../../">Sadeel Malassa </a>  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 
+<div align="center">
+    <a href="https://www.linkedin.com/in/sadeel-malassa-71a66621a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="mailto:sadeel.malasa@gmail.com">
+      <img src="https://img.shields.io/badge/google-red?style=for-the-badge&logo=google&logoColor=white" alt="google Badge"/>
+    </a>
+    <br/>
+    <img src="https://komarev.com/ghpvc/?username=sadeel16&style=for-the-badge&color=blue" alt=""/>
+</div>
 <!--
 **sadeel16/sadeel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
