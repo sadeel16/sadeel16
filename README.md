@@ -5,7 +5,7 @@ Ambitious and passionate about whatever is related to scientific and technologic
 <h1>Highlights 📌</h1>
 
 - 👋 I am Sadeel Malassa
-- 💻 I have a 3 months of hands-on experience in backend development through internship in a local company.
+- 💻 I have a 3 months of hands-on experience in backend development through internship in Dimensions Information Technology.
 - 🌱 I have a 3-year experience in human-centered design and a strong interest in the field.
 
 <br />
